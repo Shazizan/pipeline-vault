@@ -14,7 +14,7 @@ This repo is used together with **Google Colab (Jupyter Notebook)**, where I per
 
 ### 1. Extraction
 - During this experimentation, data is gathered from multiple sources to serve as the foundation for ETL processes.  
-- Using Google Colab (Jupyter Notebook) with **Pandas** and **PySpark**, all raw datasets are uploaded into the source repository, organised under the folder named **"data"**, which acts as the central data storage for this project.
+- Using Google Colab (Jupyter Notebook) with **Pandas** and **PySpark**, all raw datasets are uploaded into the source repository, organised under the folder named [`data`](https://github.com/Shazizan/data), which acts as the central data storage for this project.
 
 **2. Transformation**  
 - Standard cleaning (handling nulls, type casting, filtering).  
