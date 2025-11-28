@@ -19,6 +19,7 @@ This repo is used together with **Google Colab (Jupyter Notebook)**, where I per
 **2. Transformation**  
 - Standard cleaning (handling nulls, type casting, filtering).  
 - Enrichment and structuring using both Pandas and PySpark functions.
+- All the processes and code scripts can be viewed in my [portfolio](https://github.com/Shazizan/portfolio) repository.
 
 **3. Loading (via GitHub API)**  
 - The final transformed datasets are uploaded into this repository.  
