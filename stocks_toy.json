@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Google",
+    "q2": "4",
+    "q3": "2"
+  },
+  {
+    "company": "Facebook",
+    "q2": "6",
+    "q3": "5"
+  },
+  {
+    "company": "Microsoft",
+    "q2": "8",
+    "q3": "2"
+  },
+  {
+    "company": "Amazon",
+    "q2": "2",
+    "q3": "6"
+  }
+]
